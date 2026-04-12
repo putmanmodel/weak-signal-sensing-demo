@@ -1,0 +1,14 @@
+{
+  "scenario": "false_positive_brief",
+  "steps": 60,
+  "final_state": "decayed",
+  "promoted_steps": [],
+  "quarantined_steps": [
+    25,
+    26
+  ],
+  "baseline_detected_steps": [
+    26,
+    27
+  ]
+}
