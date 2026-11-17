@@ -13,10 +13,10 @@ This is intentionally not a real-world system.
 
 ## Related Paper and Architecture Context
 
-This demo accompanies **PaperBridge1 — _Weak-Signal Interpretation for Low-Altitude Drone Detection: Toward a Stratified, Deviation-Governed Sensing Architecture_**.
+This demo accompanies **PaperBridge01 — _Weak-Signal Interpretation for Low-Altitude Drone Detection: Toward a Stratified, Deviation-Governed Sensing Architecture_**.
 
 - Zenodo: https://zenodo.org/records/19522384
-- Paper PDF in the Spanda Architectural Framework repository: https://github.com/putmanmodel/spanda-architectural-framework/blob/main/papers/bridges/PaperBridge1_Weak-Signal_Interpretation_for_Low-Altitude_Drone_Detection_v0.2.pdf
+- Paper PDF in the Spanda Architectural Framework repository: https://github.com/putmanmodel/spanda-architectural-framework/blob/main/papers/bridges/PaperBridge01_Weak-Signal_Interpretation_for_Low-Altitude_Drone_Detection_v0.2.pdf
 - Spanda Architectural Framework repository: https://github.com/putmanmodel/spanda-architectural-framework
 
 This repository is a simulation-oriented proof-of-behavior companion to that bridge paper and sits within the broader Spanda architectural stack.
